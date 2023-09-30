@@ -2,7 +2,9 @@
 
  Grille d’évaluation des projets - StarHACK 2023
 
-Grille pour le prix principal
+
+
+Grille pour le prix principal :
 
 
 | Critères | Pondération |
@@ -12,7 +14,10 @@ Grille pour le prix principal
 | Développement Durable - Choix de la fonction (besoin de base, amélioration des conditions de vie) - Potentiel d’impacts du prototype (cible des populations vulnérables, économique, facile d’utilisation)  - Aspects matériels (réparable, réutilisable, compostable, recyclable, sobre en matériaux courants, locaux et sécuritaires, logiciel open source) | /25 |
 | Présentation - Fonctionne correctement - Robustesse - Viabilité | /25 |
 
-Grille pour la créativité
+
+
+
+Grille pour la créativité :
 
 | Critères | Pondération |
 |---|---|
